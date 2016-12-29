@@ -12,7 +12,7 @@ weight = 1
 
 [Terrible Source](https://github.com/AndrewCEmil/visualizer-one)
 
-I created a 3d music vizualizer.  Using OpenFrameworks, it takes the FFT of sound input and then places points in 3d space corrosponding the the frequence and magnitude of the sound.
+I created a 3d music visualizer.  Using OpenFrameworks, it takes the FFT of sound input and then places points in 3d space corresponding to the frequency and magnitude of the sound.
 
 Writing the music visualizer was a lot of fun.  I enjoyed playing with open frameworks and learning a (tiny) bit about FFTs and how audio works generally.  In creating it, I also played with passing the audio information into a pixel shader [using uniform buffer objects](https://www.opengl.org/wiki/Uniform_Buffer_Object).  The code for this application is some of the worst I have ever written, but I am not ashamed!
 
