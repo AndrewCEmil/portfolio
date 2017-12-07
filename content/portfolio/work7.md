@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/flyingspider0ss.png"
+image = "img/portfolio/ripline_feature2.png"
 date = "2017-12-05T19:56:17+05:30"
 title = "Ripline"
 showonlyimage = true
@@ -14,6 +14,8 @@ My first real VR game.  I spent a long time on this one.  From gameplay to desig
 
 While I am happy and proud of what I made, its painful to look at how much time I spent on something and still see how flawed it is.  If nothing else, I am very happy with how comfortable I feel in Unity at this point.
 
-<img src="/img/portfolio/flyingspider0ss.png" alt="gravitywell0" width="100%">
-<img src="/img/portfolio/flyingspider1ss.png" alt="gravitywell1" width="100%">
-<img src="/img/portfolio/flyingspider2ss.png" alt="gravitywell2" width="100%">
+<img src="/img/portfolio/ripline_feature2.png" alt="ripline0" width="100%">
+<img src="/img/portfolio/ripline_blue_ss.png" alt="ripline1" width="100%">
+<img src="/img/portfolio/ripline_field_ss.png" alt="ripline2" width="100%">
+<img src="/img/portfolio/ripline_green_ss.png" alt="ripline3" width="100%">
+<img src="/img/portfolio/ripline_start_ss.png" alt="ripline4" width="100%">
