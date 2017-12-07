@@ -15,7 +15,7 @@ My first real VR game.  I spent a long time on this one.  From gameplay to desig
 While I am happy and proud of what I made, its painful to look at how much time I spent on something and still see how flawed it is.  If nothing else, I am very happy with how comfortable I feel in Unity at this point.
 
 <img src="/img/portfolio/ripline_feature2.png" alt="ripline0" width="100%">
-<img src="/img/portfolio/ripline_blue_ss.png" alt="ripline1" width="100%">
-<img src="/img/portfolio/ripline_field_ss.png" alt="ripline2" width="100%">
-<img src="/img/portfolio/ripline_green_ss.png" alt="ripline3" width="100%">
-<img src="/img/portfolio/ripline_start_ss.png" alt="ripline4" width="100%">
+<img src="/img/portfolio/ripline_blue_ss.jpg" alt="ripline1" width="100%">
+<img src="/img/portfolio/ripline_field_ss.jpg" alt="ripline2" width="100%">
+<img src="/img/portfolio/ripline_green_ss.jpg" alt="ripline3" width="100%">
+<img src="/img/portfolio/ripline_start_ss.jpg" alt="ripline4" width="100%">
