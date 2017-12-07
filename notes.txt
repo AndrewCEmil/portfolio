@@ -1,0 +1,1 @@
+dont forget, just run "hugo" to build.  Everything will be put in the "public" dir.  scp that to your webserver
